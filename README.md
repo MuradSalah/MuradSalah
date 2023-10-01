@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuradSalah
+- 👋 Hi, I’m Murad Salah
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on software programming projects.
